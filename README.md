@@ -1,6 +1,6 @@
 # SSIS
 
-# SSIS Projects
+# SSIS Packatges
 
 **SQL Server Integration Services (SSIS)** packages that demonstrate different data integration scenarios such as exporting, transferring, splitting, and merging data.  
 
@@ -18,8 +18,8 @@ The configuration ensures that **column names are included as the first row**, m
 
 ## 🔄 Transfer Student Data
 
-![Transfer Student Data (Version 1)](images/Transfer%20Data.PNG)
 ![Transfer Student Data (Version 2)](images/Transfer_Data.PNG)
+![Transfer Student Data (Version 1)](images/Transfer%20Data.PNG)
 
 **Description:**  
 This comprehensive package transfers student data from one database to another while performing several key operations:
@@ -62,6 +62,3 @@ This SSIS package merges `File1.txt` and `File2.txt` into one file using two met
    - Simpler method when sorting is not required for the desired output.
 
 ---
-
-## 📂 Repository Structure
-
